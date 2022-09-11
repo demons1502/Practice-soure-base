@@ -1,0 +1,6 @@
+/* Variables */
+@import 'styles/variables.css';
+
+/* Modules */
+@import 'styles/module/header.css';
+@import 'styles/module/footer.css';
