@@ -1,6 +1,9 @@
 /* Variables */
 @import 'styles/variables.css';
 
-/* Modules */
-@import 'styles/module/header.css';
-@import 'styles/module/footer.css';
+/* Components */
+@import 'styles/components/header.css';
+@import 'styles/components/footer.css';
+
+/* Pages */
+@import 'styles/pages/example.css';
